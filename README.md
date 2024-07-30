@@ -22,7 +22,7 @@ Experience the boundless benefits of open-source collaboration and innovation th
 
  thank you for taking the time explore my GitHub profile I am thrilled at the opportunity to connect with you and work together to make the digital world a more exciting and innovative place through the power of code!
 
-I look forward to collaborating with you and exploring the endless possibilities that lie ahead. Let's connect and embark on this exciting adventure together!<br><hr>
+I look forward to collaborating with you and exploring the endless possibilities that lie ahead. Let's connect and embark on this exciting adventure together!!<br><hr>
 ## *hey check this out first :* https://www.githubwrapped.io/MaitreyThakar
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/MaitreyThakar/langs)](https://githubtrends.io)
 
